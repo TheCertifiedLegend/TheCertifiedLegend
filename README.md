@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Pritam Bose (@TheCertifiedLegend)
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently study at school
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently studying at school
 
 <!---
 TheCertifiedLegend/TheCertifiedLegend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
